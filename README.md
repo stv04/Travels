@@ -1,6 +1,6 @@
 # Descrición
 
-En este poryecto se trabaja la técnica del web scrapping para realizar consultas hacia la web de [Google Flights]("https://www.google.com/travel/flights") para buscar los vuelos según la información de destino, origen y fechas que ingrese el usuario, extrayendo de esa forma los vuelos más económicos según los datos que se hayan solicitado, además presenta un frontend encargado de mostrar la inforación solicitada por api, para mostrar la lista de vuelos detallada, combinada con el clima de los próximos 14 días, utilizado el api de [WeatherAPI](https://www.weatherapi.com/).
+En este poryecto se trabaja la técnica del web scrapping para realizar consultas hacia la web de [Google Flights]("https://www.google.com/travel/flights") para buscar los vuelos según la información de destino, origen y fechas que ingrese el usuario, extrayendo de esa forma los vuelos más económicos según los datos que se hayan solicitado, además presenta un frontend encargado de mostrar la información solicitada por api, para mostrar la lista de vuelos detallada, combinada con el clima de los próximos 14 días, utilizado el api de [WeatherAPI](https://www.weatherapi.com/).
 
 
 ## Características
