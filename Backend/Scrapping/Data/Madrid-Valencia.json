@@ -1,0 +1,115 @@
+[
+ {
+  "precio": "72 €",
+  "horario": [
+   "7:05 A las 7:05 el mar, 19 dic  Aeropuerto Adolfo Suárez Madrid-Barajas   ( MAD )",
+   "Duración del viaje: 1 h",
+   "8:05 A las 8:05 el mar, 19 dic  Aeropuerto de Valencia (VLC)   ( VLC )"
+  ],
+  "detalles": [
+   "Poco espacio para las piernas (74 cm)",
+   "Reproduce contenido multimedia en tu dispositivo",
+   "Emisiones de carbono estimadas: 37 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información"
+  ],
+  "descripcion": "",
+  "aerolinea": "Air Europa",
+  "styleImg": "--travel-primitives-themeable-image-default: url(https://www.gstatic.com/flights/airline_logos/70px/UX.png); --travel-primitives-themeable-image-dark: url(https://www.gstatic.com/flights/airline_logos/70px/dark/UX.png);"
+ },
+ {
+  "precio": "72 €",
+  "horario": [
+   "15:15 A las 15:15 el mar, 19 dic  Aeropuerto Adolfo Suárez Madrid-Barajas   ( MAD )",
+   "Duración del viaje: 1 h",
+   "16:15 A las 16:15 el mar, 19 dic  Aeropuerto de Valencia (VLC)   ( VLC )"
+  ],
+  "detalles": [
+   "Poco espacio para las piernas (74 cm)",
+   "Reproduce contenido multimedia en tu dispositivo",
+   "Emisiones de carbono estimadas: 39 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información"
+  ],
+  "descripcion": "",
+  "aerolinea": "Air Europa",
+  "styleImg": "--travel-primitives-themeable-image-default: url(https://www.gstatic.com/flights/airline_logos/70px/UX.png); --travel-primitives-themeable-image-dark: url(https://www.gstatic.com/flights/airline_logos/70px/dark/UX.png);"
+ },
+ {
+  "precio": "185 €",
+  "horario": [
+   "7:55 A las 7:55 el mar, 19 dic  Aeropuerto Adolfo Suárez Madrid-Barajas   ( MAD )",
+   "Duración del viaje: 1 h",
+   "8:55 A las 8:55 el mar, 19 dic  Aeropuerto de Valencia (VLC)   ( VLC )"
+  ],
+  "detalles": [
+   "Espacio normal para las piernas (79 cm)",
+   "Reproduce contenido multimedia en tu dispositivo",
+   "Emisiones de carbono estimadas: 45 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información"
+  ],
+  "descripcion": "",
+  "aerolinea": "Iberia",
+  "styleImg": "--travel-primitives-themeable-image-default: url(https://www.gstatic.com/flights/airline_logos/70px/IB.png); --travel-primitives-themeable-image-dark: url(https://www.gstatic.com/flights/airline_logos/70px/dark/IB.png);"
+ },
+ {
+  "precio": "213 €",
+  "horario": [
+   "19:55 A las 19:55 el mar, 19 dic  Aeropuerto Adolfo Suárez Madrid-Barajas   ( MAD )",
+   "Duración del viaje: 1 h 10 min",
+   "21:05 A las 21:05 el mar, 19 dic  Aeropuerto de Ibiza (IBZ)   ( IBZ )"
+  ],
+  "detalles": [
+   "Poco espacio para las piernas (71 cm)",
+   "Enchufe y puerto USB en el asiento",
+   "Reproduce contenido multimedia en tu dispositivo",
+   "Emisiones de carbono estimadas: 42 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información"
+  ],
+  "descripcion": "22:35A las 22:35 el mar, 19 dicAeropuerto de Ibiza (IBZ) (IBZ)Duración del viaje: 50 min23:25A las 23:25 el mar, 19 dicAeropuerto de Valencia (VLC) (VLC)22:35Aeropuerto de Ibiza (IBZ) (IBZ)Duración del viaje: 50 min23:25Aeropuerto de Valencia (VLC) (VLC)Iberia IB 8431TuristaCanadair RJ 1000IB 8431Avión y tripulación de Air Nostrum for IberiaEspacio normal para las piernas (79 cm)Reproduce contenido multimedia en tu dispositivoEmisiones de carbono estimadas: 37 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información",
+  "aerolinea": "Iberia",
+  "styleImg": "--travel-primitives-themeable-image-default: url(https://www.gstatic.com/flights/airline_logos/70px/IB.png); --travel-primitives-themeable-image-dark: url(https://www.gstatic.com/flights/airline_logos/70px/dark/IB.png);"
+ },
+ {
+  "precio": "243 €",
+  "horario": [
+   "22:30 A las 22:30 el mar, 19 dic  Aeropuerto Adolfo Suárez Madrid-Barajas   ( MAD )",
+   "Duración del viaje: 1 h 5 min",
+   "23:35 A las 23:35 el mar, 19 dic  Aeropuerto de Valencia (VLC)   ( VLC )"
+  ],
+  "detalles": [
+   "Espacio normal para las piernas (79 cm)",
+   "Reproduce contenido multimedia en tu dispositivo",
+   "Emisiones de carbono estimadas: 45 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información"
+  ],
+  "descripcion": "",
+  "aerolinea": "Iberia",
+  "styleImg": "--travel-primitives-themeable-image-default: url(https://www.gstatic.com/flights/airline_logos/70px/IB.png); --travel-primitives-themeable-image-dark: url(https://www.gstatic.com/flights/airline_logos/70px/dark/IB.png);"
+ },
+ {
+  "precio": "281 €",
+  "horario": [
+   "12:30 A las 12:30 el mar, 19 dic  Aeropuerto Adolfo Suárez Madrid-Barajas   ( MAD )",
+   "Duración del viaje: 1 h 20 min",
+   "13:50 A las 13:50 el mar, 19 dic  Aeropuerto Josep Tarradellas Barcelona-El Prat   ( BCN )"
+  ],
+  "detalles": [
+   "Poco espacio para las piernas (71 cm)",
+   "Puerto USB en el asiento",
+   "Emisiones de carbono estimadas: 53 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información"
+  ],
+  "descripcion": "14:45A las 14:45 el mar, 19 dicAeropuerto Josep Tarradellas Barcelona-El Prat (BCN)Duración del viaje: 1 h15:45A las 15:45 el mar, 19 dicAeropuerto de Valencia (VLC) (VLC)14:45Aeropuerto Josep Tarradellas Barcelona-El Prat (BCN)Duración del viaje: 1 h15:45Aeropuerto de Valencia (VLC) (VLC)Iberia IB 8372TuristaCanadair RJ 1000IB 8372Avión y tripulación de Air Nostrum for IberiaEspacio normal para las piernas (79 cm)Reproduce contenido multimedia en tu dispositivoEmisiones de carbono estimadas: 46 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información",
+  "aerolinea": "Iberia",
+  "styleImg": "--travel-primitives-themeable-image-default: url(https://www.gstatic.com/flights/airline_logos/70px/IB.png); --travel-primitives-themeable-image-dark: url(https://www.gstatic.com/flights/airline_logos/70px/dark/IB.png);"
+ },
+ {
+  "precio": "359 €",
+  "horario": [
+   "16:00 A las 16:00 el mar, 19 dic  Aeropuerto Adolfo Suárez Madrid-Barajas   ( MAD )",
+   "Duración del viaje: 1 h 5 min",
+   "17:05 A las 17:05 el mar, 19 dic  Aeropuerto de Valencia (VLC)   ( VLC )"
+  ],
+  "detalles": [
+   "Espacio normal para las piernas (79 cm)",
+   "Reproduce contenido multimedia en tu dispositivo",
+   "Emisiones de carbono estimadas: 45 kgCerrar cuadro de diálogoEsta es la emisión estimada de kilogramos de CO2 según el número de pasajeros y la clase de asiento que has seleccionado.En Google, estamos trabajando para incluir en nuestras estimaciones el NOx y otros elementos que contribuyen significativamente al calentamiento global, como las estelas persistentes. Más información"
+  ],
+  "descripcion": "",
+  "aerolinea": "Iberia",
+  "styleImg": "--travel-primitives-themeable-image-default: url(https://www.gstatic.com/flights/airline_logos/70px/IB.png); --travel-primitives-themeable-image-dark: url(https://www.gstatic.com/flights/airline_logos/70px/dark/IB.png);"
+ }
+]

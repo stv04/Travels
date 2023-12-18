@@ -1,0 +1,25 @@
+<mat-expansion-panel class="my-2">
+    <mat-expansion-panel-header>
+        <mat-panel-title>
+            {{vuelo.aerolinea}} - {{vuelo.precio}}
+        </mat-panel-title>
+        <mat-panel-description>
+            {{fechaSalida}} - {{fechaLlegada}}
+            <div class="logo rounded-5 m-3 h-50" [style]="vuelo.styleImg"></div>
+            <!-- <mat-icon>account_circle</mat-icon> -->
+        </mat-panel-description>
+    </mat-expansion-panel-header>
+
+    <p>{{vuelo.descripcion}}</p>
+
+    <ul class="list-group my-2">
+        <li class="list-group-item list-group-item-primary">Horario</li>
+        <li class="list-group-item" *ngFor="let item of vuelo.horario">{{item}}</li>
+    </ul>
+    
+    <ul class="list-group my-2">
+        <li class="list-group-item list-group-item-primary">Detalles del vuelo</li>
+        <li class="list-group-item" *ngFor="let item of vuelo.detalles">{{item}}</li>
+    </ul>
+
+</mat-expansion-panel>

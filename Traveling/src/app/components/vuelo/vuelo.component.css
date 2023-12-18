@@ -1,0 +1,4 @@
+.logo {
+    content: var(--travel-primitives-themeable-image-dark);
+    margin: 1em;
+}

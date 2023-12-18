@@ -1,0 +1,16 @@
+<mat-card class="my-2" [ngClass]="{'bg-primary-subtle': fechas[0] <= (foreCast.date_epoch * 1000) && fechas[1] >= (foreCast.date_epoch * 1000) }">
+    <mat-card-header>
+        <img mat-card-avatar [src]="foreCast.day.condition.icon" />
+        <mat-card-title>{{foreCast.day.condition.text}}</mat-card-title>
+        <mat-card-subtitle>{{foreCast.date}}</mat-card-subtitle>
+    </mat-card-header>
+
+    <mat-card-content>
+        <ul class="list-group list-group-flush my-2">
+            <li class="list-group-item"><b>Rango Temperatura (ºC): </b>{{foreCast.day.mintemp_c}} - {{foreCast.day.maxtemp_c}}</li>
+            <li class="list-group-item"><b>Temperatura promedio (ºC): </b>{{foreCast.day.avgtemp_c}}</li>
+            <li class="list-group-item"><b>Humedad: </b>{{foreCast.day.avghumidity}}</li>
+            <li class="list-group-item"><b>Rayos UV: </b>{{foreCast.day.uv}}</li>
+        </ul>
+    </mat-card-content>
+</mat-card>

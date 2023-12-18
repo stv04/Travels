@@ -1,0 +1,8 @@
+{
+ "error": true,
+ "message": "Error scrapping: No se pudo coincidir con la ciudad ingresada: \"Error\"",
+ "trace": {
+  "id_trace": 0,
+  "url": "https://www.google.com/travel/flights"
+ }
+}
